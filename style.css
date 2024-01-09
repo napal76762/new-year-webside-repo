@@ -151,4 +151,12 @@ p{
     position: relative;
 
 }
+.table-img td{
+    position: relative;
+    text-align: center;
+    width: 550px;
+    width: 300px;
+    height: 300px;
+    flex-shrink: 0;
+}
     
