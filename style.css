@@ -1,0 +1,154 @@
+body{
+    font-family: 'Merriweather', serif;
+    font-family: 'Inter', sans-serif;
+}
+#main-body{
+    background-color:white;
+    border: 10px solid red;
+}
+.main{
+    background-image: url('Banner\ Image.png');
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 75px;
+    
+}
+.header{
+    color: #fff;
+    top: 30%;
+    position: relative;
+    text-align: center;
+    
+}
+.font{
+    font-size: 50px;
+    margin: 0,10px;
+    font-weight: bold;
+}
+.main-section{
+    text-align: center;
+    margin: 60px;
+}
+.sec-font{
+    color: red;
+    font-weight: bolder;
+    font: 700;
+    padding: 10px;
+}
+.sec-font2{
+    color: red;
+}
+h3{
+    font-weight: bolder;
+}
+.img img{
+    width: 500px;
+    
+}
+.sec-back{
+    background-image: url('Vectorrr.png');
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    margin: 75px;
+}
+.sec-back{
+    display: flex;
+    color: #fff; 
+    p
+}
+.div-font{
+    margin: 75px;
+    padding: 75px;
+}
+.font-wigth{
+    width: 900;
+    font-size: 40px;
+}
+.img-1 img{
+    margin: 35px;
+}
+.section-maind{
+    background-color:rgb(232, 190, 196);
+    height: 350px;
+    margin: 75px;
+    border-radius: 10px;
+}
+.main-font{
+    text-align: center;
+    background-position: center;
+    bottom: 50%;
+    position: relative;
+    top: 30%;
+    color: #070211;
+}
+.color{
+    background-color: #FF0000;
+    border-radius: 5px;
+    font-size: 10px;
+    border: none;
+    padding: 10px;
+    color: #fff;
+}
+span{
+    color: #FF0000;
+}
+.no-problem{
+    display: flex;
+    margin: 150px;
+    height: 350px;
+    text-align: center;
+    justify-content: space-between;
+    
+}
+
+p{
+    font-size: small;
+    font-weight: 400;
+}
+.h5-color{
+    color: #FF0000; 
+}
+.div-2 img{
+    width: 250px;
+    border:10px solid #FF0000;
+    padding: 15px;
+    border-radius: 350px;
+}
+.h2-color{
+   color:#FF0000; 
+}
+#main-section1{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 75px
+
+
+    
+}
+.main-div{
+    text-align: center;
+    font-weight: 900;
+}
+.span,h1{
+    font-size: 50px;
+}
+
+.div-img{
+    display: flex;
+    margin: 75px
+}
+.img-2 img{
+    position: ;
+    top: 60px;
+    bottom: 10px;
+}
+.div-5{
+    position: relative;
+
+}
+    
